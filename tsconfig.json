@@ -10,8 +10,7 @@
         "declaration": true,
         "removeComments": false,
         /* emitting `use strict` made PuppetJS break */
-        "allowSyntheticDefaultImports": true,
-        "noImplicitUseStrict": true
+        "allowSyntheticDefaultImports": true
     },
     "include": [
         "src/**/*.ts"
